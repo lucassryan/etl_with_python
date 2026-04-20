@@ -49,5 +49,4 @@ O pipeline gera um novo arquivo CSV com dados limpos e padronizados, prontos par
 ---
 
 ## Autor
-Lucas Ryan
-Projeto desenvolvido para estudo de Engenharia de Dados
+Lucas Ryan - Projeto desenvolvido para estudo de Engenharia de Dados
